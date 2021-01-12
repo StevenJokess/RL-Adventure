@@ -1,3 +1,3 @@
-import layers
-import wrappers
-import replay_buffer
+from common import layers
+from common import wrappers
+from common import replay_buffer
